@@ -10,12 +10,9 @@ import numpy as np
 
 pb_url = 'http://gtfs.edmonton.ca/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb'
 
-my_lat = 0
+my_lat = st.number_input("Enter latitude")
 
-my_lon = 0
-
-parts = input("Enter your space seperated latitude and longitutde: ").strip().split()
-my_lat, my_lon = float(parts[0]), float(parts[1])
+my_lon = st.number_input("Enter longitude")
 
 interval = 3
 
