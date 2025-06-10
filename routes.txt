@@ -1,0 +1,239 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+001,1,001,"Downtown - Capilano",,3,,005087,FFFFFF
+002,1,002,"West Edmonton Mall - Stadium - Clareview",,3,,005087,FFFFFF
+003,1,003,"Westmount - Stadium",,3,,005087,FFFFFF
+004,1,004,"Lewis Farms - University - Capilano",,3,,005087,FFFFFF
+005,1,005,"Westmount - Downtown - Coliseum",,3,,005087,FFFFFF
+006,1,006,"Davies - Southgate",,3,,005087,FFFFFF
+007,1,007,"West Edmonton Mall - Downtown",,3,,005087,FFFFFF
+008,1,008,"Abbottsfield - Downtown - University",,3,,005087,FFFFFF
+009,1,009,"Southgate - Eaux Claires",,3,,005087,FFFFFF
+021R,1,"Capital","LRT Capital Line",,0,,0081BC,FFFFFF
+022R,1,"Metro","LRT Metro Line",,0,,E01F27,000000
+023R,1,"Valley","Valley Line",,0,,008000,FFFFFF
+031,1,031,"Leger - University",,3,,FF8000,000000
+051,1,051,"Castle Downs - University",,3,,005087,FFFFFF
+052,1,052,"Northgate - West Edmonton Mall",,3,,005087,FFFFFF
+053,1,053,"West Clareview - Mill Woods",,3,,005087,FFFFFF
+054,1,054,"West Edmonton Mall - West Clareview",,3,,005087,FFFFFF
+055,1,055,"Meadows - Southgate - West Edmonton Mall",,3,,005087,FFFFFF
+056,1,056,"Mill Woods - Leger - West Edmonton Mall",,3,,005087,FFFFFF
+101,1,101,"Stadium - Abbottsfield",,3,,005087,FFFFFF
+102,1,102,"Kingsway - Coliseum - Abbottsfield",,3,,005087,FFFFFF
+103,1,103,"Eaux Claires - Castle Downs - Kingsway",,3,,005087,FFFFFF
+104,1,104,"Coliseum - East Clareview",,3,,005087,FFFFFF
+106,1,106,"Dunvegan - Northgate - Belvedere",,3,,005087,FFFFFF
+107,1,107,"Belvedere - West Clareview",,3,,005087,FFFFFF
+108,1,108,"Belvedere - East Clareview",,3,,005087,FFFFFF
+109,1,109,"Northgate - Castle Downs - Hudson",,3,,005087,FFFFFF
+110X,1,110X,"Eaux Claires - Downtown",,3,,F37727,000000
+111,1,111,"Riverdale - McQueen",,3,,005087,FFFFFF
+112,1,112,"Castle Downs - Eaux Claires",,3,,005087,FFFFFF
+113,1,113,"West Clareview - Northgate",,3,,005087,FFFFFF
+114,1,114,"West Clareview - Northgate",,3,,005087,FFFFFF
+116,1,116,"Abbottsfield - East Clareview",,3,,005087,FFFFFF
+117,1,117,"Eaux Claires - West Clareview",,3,,005087,FFFFFF
+118,1,118,"Eaux Claires - West Clareview",,3,,005087,FFFFFF
+119,1,119,"Eaux Claires - West Clareview",,3,,005087,FFFFFF
+120X,1,120X,"Eaux Claires - Government Centre",,3,,F37727,000000
+121,1,121,"Clareview -  Fraser - Evergreen",,3,,005087,FFFFFF
+122,1,122,"Eaux Claires - Lago Lindo - Klarvatten",,3,,005087,FFFFFF
+123,1,123,"Coliseum - Northgate",,3,,005087,FFFFFF
+124,1,124,"Westmount - Eaux Claires",,3,,005087,FFFFFF
+127,1,127,"Northgate - White Oaks Square - Castle Downs",,3,,005087,FFFFFF
+128,1,128,"Northgate - Londonderry",,3,,005087,FFFFFF
+130X,1,130X,"Baturyn - Eaux Claires - Government Centre",,3,,F37727,000000
+131,1,131,"Riverdale - Downtown",,3,,004080,FFFFFF
+140X,1,140X,"Palisades - Kingsway Express",,3,,F37727,000000
+150X,1,150X,"Dunluce - Castle Downs - Government Centre",,3,,F37727,000000
+201,2,201,"Downtown Edmonton Loop",,3,,002B53,FFFFFF
+202,2,202,"Kingsway TC via NAIT",,3,,BA6028,FFFFFF
+203,2,203,"UofA via Westmount",,3,,3E3621,FFFFFF
+205,2,205,"West Edmonton",,3,,1E91D1,FFFFFF
+208,2,208,"Government Centre Express",,3,,D4118C,FFFFFF
+211,2,211,"Downtown Edmonton Express",,3,,6751A1,FFFFFF
+401,4,401,"ORDZE - Downtown",,3,,F99D27,FFFFFF
+403,4,403,"ORDZE - Government Centre",,3,,A0237E,FFFFFF
+404,4,404,"ORDZE - University of Alberta",,3,,FDB525,FFFFFF
+411,4,411,"BETHEL - Downtown",,3,,80FF80,FFFFFF
+413,4,413,"BETHEL - Government Centre",,3,,0062AC,FFFFFF
+414,4,414,"BETHEL - University of Alberta",,3,,F16278,FFFFFF
+420,4,420,"BETHEL - Millennium Place",,3,,009886,FFFFFF
+430,4,430,"BETHEL - Emerald Hills",,3,,6BC7B8,FFFFFF
+431,4,431,"BETHEL - Emerald Hills",,3,,79431B,FFFFFF
+432,4,432,"BETHEL - Summerwood",,3,,E997C1,FFFFFF
+433,4,433,"BETHEL - Clarkdale",,3,,7E9BBF,FFFFFF
+433A,4,433A,"SCHOOL SPECIAL",,3,,1E4288,FFFFFF
+440,4,440,"BETHEL - Heritage Hills",,3,,F04923,FFFFFF
+441,4,441,"BETHEL - ORDZE - Regency",,3,,F8CE3D,FFFFFF
+441A,4,441A,"BETHEL - Regency",,3,,A52960,FFFFFF
+442,4,442,"BETHEL - Nottingham",,3,,E11F8F,FFFFFF
+443,4,443,"BETHEL - ORDZE - Glen Allan",,3,,FF80FF,FFFFFF
+450,4,450,"BETHEL - Centre in the Park",,3,,08C0DE,FFFFFF
+451,4,451,"BETHEL - ORDZE - Woodbridge",,3,,4A2366,FFFFFF
+495,4,495,"Take Home Bus",,3,,,
+500X,1,500X,"Meadows - MacEwan",,3,,F37727,000000
+501,1,501,"Davies - Capilano",,3,,005087,FFFFFF
+502,1,502,"Davies - South Campus",,3,,005087,FFFFFF
+503,1,503,"Davies - Millbourne - Woodvale",,3,,005087,FFFFFF
+504,1,504,"Meadows - Davies",,3,,005087,FFFFFF
+505,1,505,"Davies - Pylypow Industrial",,3,,005087,FFFFFF
+506,1,506,"Davies - Meadows - Maple",,3,,005087,FFFFFF
+507,1,507,"Tamarack - Southgate",,3,,005087,FFFFFF
+508,1,508,"Meadows - Millbourne",,3,,005087,FFFFFF
+509,1,509,"Mill Woods - Millbourne",,3,,005087,FFFFFF
+511,1,511,"Mill Woods - Downtown",,3,,005087,FFFFFF
+512,1,512,"Mill Woods - South Edmonton Common",,3,,005087,FFFFFF
+513,1,513,"Mill Woods - Knottwood",,3,,005087,FFFFFF
+514,1,514,"Mill Woods - Millhurst",,3,,005087,FFFFFF
+515,1,515,"Mill Woods - Meadows",,3,,005087,FFFFFF
+516,1,516,"Mill Woods - Laurel - Meadows",,3,,005087,FFFFFF
+517,1,517,"Mill Woods - Southwood",,3,,005087,FFFFFF
+518,1,518,"Mill Woods - Century Park",,3,,005087,FFFFFF
+519,1,519,"Mill Woods - Century Park",,3,,005087,FFFFFF
+521,1,521,"Mill Woods - Century Park",,3,,005087,FFFFFF
+522,1,522,"Capilano - Bonnie Doon",,3,,005087,FFFFFF
+523,1,523,"Mill Woods - Downtown",,3,,005087,FFFFFF
+524,1,524,"Bonnie Doon - Holyrood",,3,,005087,FFFFFF
+525,1,525,"Bonnie Doon - Ritchie",,3,,005087,FFFFFF
+526,1,526,"Mill Woods - Millbourne Woodvale",,3,,005087,FFFFFF
+527,1,527,"Mill Woods - Millbourne",,3,,005087,FFFFFF
+540,7,540,"Beaumont to Edmonton",,3,,2FA7D5,000000
+560,5,560,"Spruce Grove - Downtown Edmonton",,3,,139FE6,FFFFFF
+589,1,589,"Edmonton Waste Management Centre - Coliseum",,3,,FFFF00,000000
+610,1,610,"Queen E. - Dickinsfield - Lago Lindo",,3,,005087,FFFFFF
+612,1,612,"Queen E. - O'Leary - Hollick-Kenyon",,3,,005087,FFFFFF
+613,1,613,"Archbishop O'Leary - Queen Elizabeth - Dunluce",,3,,005087,FFFFFF
+614,1,614,"Archbishop O'Leary - Queen E. - Baturyn",,3,,005087,FFFFFF
+616,1,616,"Mary Butterworth - Lago Lindo - Klarvatten",,3,,005087,FFFFFF
+617,1,617,"Mary Butterworth - Eaux Claires",,3,,005087,FFFFFF
+618,1,618,"Sir John Thompson - Rapperswill",,3,,005087,FFFFFF
+620,1,620,"J.J. Bowlen - LaZerte - Londonderry - Clareview",,3,,005087,FFFFFF
+621,1,621,"M.E. LaZerte - Londonderry - Crystallina Nera",,3,,005087,FFFFFF
+623,1,623,"Coliseum - LaZerte - Londonderry",,3,,005087,FFFFFF
+624,1,624,"O'Leary - Rapperswill",,3,,005087,FFFFFF
+625,1,625,"O'Leary - Palisades",,3,,005087,FFFFFF
+626,1,626,"O'Leary - Crystallina Nera",,3,,005087,FFFFFF
+627,1,627,"Eastglen - Bannerman",,3,,005087,FFFFFF
+630,1,630,"Ottewell - Austin O'Brien - Silver Berry",,3,,005087,FFFFFF
+631,1,631,"Ottewell - Austin O'Brien - Maple",,3,,005087,FFFFFF
+632,1,632,"O'Brien - Ottewell - Kenilworth - Mill Woods",,3,,005087,FFFFFF
+633,1,633,"Austin O'Brien - Coliseum - Clareview",,3,,005087,FFFFFF
+634,1,634,"McNally - Tamarack",,3,,005087,FFFFFF
+635,1,635,"McNally - Silver Berry",,3,,005087,FFFFFF
+636,1,636,"McNally - Davies",,3,,005087,FFFFFF
+637,1,637,"Braemar - University",,3,,005087,FFFFFF
+642,1,642,"Lakewood - Mill Woods",,3,,005087,FFFFFF
+643,1,643,"TD Baker - Mill Woods",,3,,005087,FFFFFF
+644,1,644,"Elder Dr. Whiskeyjack - Silverberry - Wild Rose",,3,,005087,FFFFFF
+645,1,645,"Elder Dr. Whiskeyjack - Meadows",,3,,005087,FFFFFF
+646,1,646,"Elder Dr. Whiskeyjack - Mill Woods",,3,,005087,FFFFFF
+647,1,647,"Elder Dr. Whiskeyjack - Laurel",,3,,005087,FFFFFF
+650,1,650,"Riverbend School - Leger",,3,,005087,FFFFFF
+651,1,651,"Avalon - Southgate",,3,,005087,FFFFFF
+652,1,652,"Strathcona - Southgate",,3,,005087,FFFFFF
+653,1,653,"Strathcona - Davies",,3,,005087,FFFFFF
+654,1,654,"Strathcona - Belgravia - Windsor Park",,3,,005087,FFFFFF
+655,1,655,"Strathcona - South Campus",,3,,005087,FFFFFF
+656,1,656,"Allendale - Strathcona",,3,,005087,FFFFFF
+657,1,657,"Leger - Strathcona HS",,3,,005087,FFFFFF
+658,1,658,"Fr. M. McCaffery - Rutherford",,3,,005087,FFFFFF
+659,1,659,"Fr. M. McCaffery - MacEwan",,3,,005087,FFFFFF
+660,1,660,"Century Park - Harry Ainlay",,3,,005087,FFFFFF
+661,1,661,"Harry Ainlay - Mill Woods",,3,,005087,FFFFFF
+662,1,662,"Harry Ainlay - Louis St. Laurent - Century Park",,3,,005087,FFFFFF
+663,1,663,"Fr. M. McCaffery - Chappelle",,3,,005087,FFFFFF
+664,1,664,"Walker - A. Anderson -  M. McCaffery",,3,,005087,FFFFFF
+665,1,665,"Charlesworth - Dr. Anne Anderson",,3,,005087,FFFFFF
+667,1,667,"Century Park - Dr. Anne Anderson",,3,,005087,FFFFFF
+668,1,668,"Chappelle - Dr. Anne Anderson",,3,,005087,FFFFFF
+669,1,669,"Keswick - Fr. M. McCaffery",,3,,005087,FFFFFF
+671,1,671,"Alex Janvier - WEM - Lewis Farms",,3,,005087,FFFFFF
+673,1,673,"Hillcrest - WEM",,3,,005087,FFFFFF
+674,1,674,"H.E. Beriault - Lewis Farms",,3,,005087,FFFFFF
+675,1,675,"S. Bruce Smith - Cameron Heights",,3,,005087,FFFFFF
+676,1,676,"Alex Janvier - St. Thomas More - La Perle",,3,,005087,FFFFFF
+678,1,678,"Jasper Place - Alex Janvier - Lewis Farms",,3,,005087,FFFFFF
+681,1,681,"Ross Sheppard - A. MacDonald - Lewis Farms",,3,,005087,FFFFFF
+682,1,682,"Ross Sheppard - Archbishop MacDonald - Leger",,3,,005087,FFFFFF
+683,1,683,"Arch MacDonald - Ross Sheppard - Castle Downs",,3,,005087,FFFFFF
+684,1,684,"Archbishop MacDonald - Ross Sheppard - Lago Lindo",,3,,005087,FFFFFF
+685,1,685,"Ross Sheppard - A. MacDonald - Lewis Farms",,3,,005087,FFFFFF
+691,1,691,"Amiskwaciy - Kingsway",,3,,005087,FFFFFF
+692,1,692,"Victoria School - WEM",,3,,005087,FFFFFF
+700X,1,700X,"Century Park - Heritage Valley",,3,,F37727,000000
+701,1,701,"Southgate - Kingsway",,3,,005087,FFFFFF
+702,1,702,"Southgate - South Campus",,3,,005087,FFFFFF
+703,1,703,"Leger - South Campus",,3,,005087,FFFFFF
+704,1,704,"Southgate - Southpark",,3,,005087,FFFFFF
+705,1,705,"Century Park - Southgate",,3,,005087,FFFFFF
+706,1,706,"Leger - Southgate",,3,,005087,FFFFFF
+707,1,707,"Century Park - Southgate",,3,,005087,FFFFFF
+708,1,708,"Century Park - Southgate",,3,,005087,FFFFFF
+709,1,709,"Century Park - Southgate",,3,,005087,FFFFFF
+712,1,712,"Century Park - Yellowbird",,3,,005087,FFFFFF
+713,1,713,"Century Park - Twin Brooks",,3,,005087,FFFFFF
+715,1,715,"Leger - Century Park",,3,,005087,FFFFFF
+716,1,716,"Leger - Century Park",,3,,005087,FFFFFF
+717,1,717,"Leger - Century Park",,3,,005087,FFFFFF
+718,1,718,"Leger - Century Park",,3,,005087,FFFFFF
+719,1,719,"Century Park - Chappelle",,3,,005087,FFFFFF
+721,1,721,"Century Park - Rutherford - Desrochers",,3,,005087,FFFFFF
+722,1,722,"Century Park - Rutherford - Allard",,3,,005087,FFFFFF
+723,1,723,"University - Parkallen",,3,,005087,FFFFFF
+724,1,724,"Leger - Brander Gardens - South Campus",,3,,005087,FFFFFF
+725,1,725,"Southgate - Lendrum",,3,,005087,FFFFFF
+726,1,726,"University - Windsor Park - Belgravia",,3,,005087,FFFFFF
+727,1,727,"Heritage Valley - Chappelle",,3,,005087,FFFFFF
+729,1,729,"Leger - Century Park",,3,,005087,FFFFFF
+747,1,747,"Century Park - Edmonton International Airport",,3,,005087,FFFFFF
+900X,1,900X,"Lewis Farms - Downtown",,3,,F37727,000000
+901,1,901,"Jasper Place - Downtown",,3,,005087,FFFFFF
+902,1,902,"NAIT - University",,3,,005087,FFFFFF
+903,1,903,"Jasper Place - Kingsway",,3,,005087,FFFFFF
+904,1,904,"West Edmonton Mall - Westmount",,3,,005087,FFFFFF
+905,1,905,"Northgate - Westmount",,3,,005087,FFFFFF
+906,1,906,"West Edmonton Mall - Westmount",,3,,005087,FFFFFF
+907,1,907,"West Edmonton Mall - Westmount",,3,,005087,FFFFFF
+908,1,908,"Jasper Place - Westmount",,3,,005087,FFFFFF
+909,1,909,"Jasper Place - Westmount",,3,,005087,FFFFFF
+910X,1,910X,"West Lymburn - Lessard - South Campus",,3,,F37727,000000
+912,1,912,"Lewis Farms - Jasper Place",,3,,005087,FFFFFF
+913,1,913,"West Edmonton Mall - Jamieson Place",,3,,005087,FFFFFF
+914,1,914,"West Edmonton Mall - Jasper Place",,3,,005087,FFFFFF
+915,1,915,"West Edmonton Mall - Jasper Place",,3,,005087,FFFFFF
+916,1,916,"West Edmonton Mall - Lewis Farms",,3,,005087,FFFFFF
+917,1,917,"West Edmonton Mall - Lewis Farms",,3,,005087,FFFFFF
+918,1,918,"West Edmonton Mall - Lessard",,3,,005087,FFFFFF
+919,1,919,"Lewis Farms - Secord",,3,,005087,FFFFFF
+920X,1,920X,"Lewis Farms - University Express",,3,,F37727,000000
+921,1,921,"Jasper Place - Westview Village",,3,,005087,FFFFFF
+922,1,922,"Lewis Farms - Rosenthal",,3,,005087,FFFFFF
+923,1,923,"West Edmonton Mall - Oleskiw",,3,,005087,FFFFFF
+924,1,924,"Jasper Place - Rio Terrace",,3,,005087,FFFFFF
+925,1,925,"West Edmonton Mall - Jasper Place",,3,,005087,FFFFFF
+926,1,926,"Lewis Farms - Stillwater",,3,,005087,FFFFFF
+930X,1,930X,"The Grange - South Campus",,3,,F37727,000000
+A12,2,A12,"Campbell - Akinsdale",,3,,B1C436,FFFFFF
+A13,2,A13,"Akinsdale - Campbell",,3,,002B53,FFFFFF
+A14,2,A14,"Sturgeon Hospital - St Albert North",,3,,1188A4,FFFFFF
+A21,2,A21,"Heritage Lakes - Riel",,3,,A94A5F,FFFFFF
+A22,2,A22,"Riel - Heritage Lakes",,3,,85C440,FFFFFF
+A23,2,A23,"Heritage Lakes - Riel",,3,,212060,FFFFFF
+A24,2,A24,"Grandin",,3,,D97C28,FFFFFF
+A3,2,A3,"Riverside",,3,,,
+A31,2,A31,"Heritage Lakes - Grandin",,3,,59B7E8,FFFFFF
+A32,2,A32,"Akinsdale - Campbell - Pineview - Forest Lawn",,3,,B63B96,FFFFFF
+A33,2,A33,"Sturgeon - Forest Lawn - Woodlands - Braeside",,3,,47AA47,FFFFFF
+A4,2,A4,"Lacombe - Deer Ridge",,3,,F06D25,FFFFFF
+A5,2,A5,"Deer Ridge - Lacombe",,3,,2D578E,FFFFFF
+A6,2,A6,"Deer Ridge - North Ridge",,3,,7B9B3D,FFFFFF
+A7,2,A7,"Sturgeon Hospital - Erin Ridge - Oakmont",,3,,E34D94,FFFFFF
+A8,2,A8,"Oakmont - Erin Ridge - Sturgeon Hospital",,3,,1E5136,FFFFFF
+A9,2,A9,"Sturgeon - Kingswood - Woodlands",,3,,3C58A8,FFFFFF
+F1,2,F1,"Farmers Market Shuttle",,3,,003D7D,89AD2E
+F600,6,"600","Fort Saskatchewan",,3,,,
+F610,6,"610","Westpark",,3,,002D56,FFFFFF
+F611,6,"611","Downtown",,3,,D33039,FFFFFF
+L1,9,"1","Leduc - Nisku - Edmonton",,3,,E9D33D,000000
+L10,9,"10","Leduc - Nisku - EIA",,3,,8080FF,000000

@@ -1,0 +1,3 @@
+pip install requests gtfs-realtime-bindings protobuf pandas streamlit numpy
+
+scipy
